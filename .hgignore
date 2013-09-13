@@ -1,0 +1,4 @@
+syntax: glob
+Screenlapse/bin/*
+Screenlapse/obj/*
+*.suo
